@@ -1,0 +1,13 @@
+# Big-Data-Praktikum: Pseudo-Labelling und Vorhersage von Anomalien im 3D-Druck
+# Installation: python3.12 -m venv .venv && .venv/bin/pip install -r requirements.txt
+torch
+torchvision
+scikit-learn
+scikit-image
+pandas
+numpy
+matplotlib
+scipy
+pillow
+nbconvert
+ipykernel
