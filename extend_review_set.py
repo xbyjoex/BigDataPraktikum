@@ -9,7 +9,7 @@ bleiben unverändert. Die neuen Patches setzen sich aus drei Gruppen zusammen:
   nicht übereinstimmen.
 - Zufallsauswahl aus dem Rest für eine unverzerrte Stichprobe.
 
-Danach einfach label_tool.py starten; es macht beim ersten unbeschrifteten
+Danach einfach label_tool.py starten. Es macht beim ersten unbeschrifteten
 Patch weiter.
 
 Aufruf: .venv/bin/python extend_review_set.py [zielgroesse]   (Default: 150)
